@@ -1,0 +1,6 @@
+The game compiles and connects to API.
+However, there is an issu with the weather. Because I used ListebaleFuture class , I needed to create a package to pass 2 objects.
+It does not seem to get a correct a response for weather.
+However, that' what I've done.
+Witing for feedback.
+KB
